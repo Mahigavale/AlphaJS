@@ -1,0 +1,14 @@
+
+1)Formatting Tags
+<i>=> Italics
+<em> =>
+<b>=>
+<sup>=> mathematical formulae
+<sub>=> chemical formulae
+<ins>=>
+<del>=>
+<mark>=>
+<table>
+<th>
+<tr>
+<td>
