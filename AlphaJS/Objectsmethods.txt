@@ -1,0 +1,2 @@
+
+1)Object.Assign(Target, source1, source2, source3...sourcen)=>modifyinhg=>modifies the target.
