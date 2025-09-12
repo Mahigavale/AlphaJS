@@ -19,3 +19,18 @@ function explore()
     alert("welcome to the google......")
    }
 }
+
+
+function demo()
+{
+    navigator.clipboard.readText()
+    .then((v)=>
+    {
+        console.log(v);
+        
+    }).catch((e)=>
+    {
+        console.log(e);
+        
+    })
+}
