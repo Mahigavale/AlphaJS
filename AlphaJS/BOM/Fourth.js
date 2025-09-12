@@ -16,10 +16,9 @@ function getcurrentlocation()
         
      },(e)=>{
 
-
         console.log(e.PERMISSION_DENIED);
-        
-        
+
+     
      })
     
 }
